@@ -40,7 +40,7 @@ Executed various analytical queries including:
 
 
 ## Technologies Used
-- SQL (specify database system, e.g., MySQL, PostgreSQL)
+- SQL (MySQL)
 - Tableau
 - Power BI
 
